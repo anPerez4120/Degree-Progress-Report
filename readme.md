@@ -1,10 +1,10 @@
 # Degree-Progress-Report
 ## Introduction
   This is an local web-application that simulates a Degree Progress Report. One may login as 
-  a student, faculty or administrator. All of them have slightly different views and priveleges. 
-  Students can edit their profile and check the fastest path to graduation. Faculty can do the same,
-  and they can search for students. Administrators can do everything the other two can, and they have
-  access to phpMyAdmin.
+  different types of users such as student, faculty or administrator. All of them have slightly 
+  different views and priveleges. Students can edit their profile and check the fastest path 
+  to graduation. Faculty can do the same, and they can search for students. Administrators can 
+  do everything the other two can, and they have access to phpMyAdmin.
 ## Installation
 1. Install XAMPP (https://www.apachefriends.org/index.html)
 2. Download this repository by cloning or zip
@@ -18,6 +18,18 @@
 4. Import the seniorProjectDatabase.sql into phpmyadmin. 
 5. Go to localhost in your browser.
 6. Login as anyone in the database.
+### Easy Login Examples
+  Type: Administrator
+  Username: Miranda61@gmail.com
+  Password: 1234
+  
+  Type: Student
+  Username: Olsen79@aol.com
+  Password: 1234
+  
+  Type: Faculty
+  Username: Thornton66@hotmail.com
+  Password: 1234
 
 
 
