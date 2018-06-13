@@ -18,19 +18,9 @@
 4. Import the seniorProjectDatabase.sql into phpmyadmin. 
 5. Go to localhost in your browser.
 6. Login as anyone in the database.
-## Easy Login Examples
-  
-  - Type: Administrator
-  - Username: Miranda61@gmail.com  
-  - Password: 1234  
-  
-  - Type: Student  
-  - Username: Olsen79@aol.com  
-  - Password: 1234
-  
-  - Type: Faculty
-  - Username: Thornton66@hotmail.com
-  - Password: 1234
-
-
-
+### Easy Login Examples
+  | User Types    | Username               | Password |
+  | ------------- | ---------------------- | -------  |
+  | Administrator | Miranda61@gmail.com    | 1234     |
+  | Student       | Olsen79@aol.com        | 1234     |
+  | Faculty       | Thornton66@hotmail.com | 1234     |
