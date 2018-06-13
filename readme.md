@@ -22,11 +22,9 @@
   Type: Administrator
   Username: Miranda61@gmail.com
   Password: 1234
-  
   Type: Student
   Username: Olsen79@aol.com
   Password: 1234
-  
   Type: Faculty
   Username: Thornton66@hotmail.com
   Password: 1234
